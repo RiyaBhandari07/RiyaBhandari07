@@ -1,7 +1,11 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&color=0EF783&center=true&vCenter=true&width=435&lines=Hi!+I'm+Riya+Bhandari;On+a+Journey+from+BioTech+to+Data+Science;Self-Taught+Data+Analyst;Learning+through+New+Explorations" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&color=0EF783&center=true&vCenter=true&width=435&lines=Hi!+I'm+Riya+Bhandari;On+a+Journey+from+BioTech+to+Data+Science;Learning+through+New+Explorations" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <img src="banner.png" width="400" alt="My Banner">
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=riyabhandari07&color=0EF783)

@@ -23,7 +23,7 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-6F42C1?style=for-the-badge&logo=chatgpt&logoColor=white)
-![Spacy](https://img.shields.io/badge/spaCy-3.8.7-brightgreen?style=for-the-badge&logo=spacy&logoColor=white)
+![Spacy](https://img.shields.io/badge/spaCy-brightgreen?style=for-the-badge&logo=spacy&logoColor=white)
 ![Gensim](https://img.shields.io/badge/Gensim-1E90FF?style=for-the-badge&logo=python&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F61?style=for-the-badge&logo=brain&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)

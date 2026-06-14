@@ -18,7 +18,7 @@ I'm transitioning from a biotechnology and pharmaceutical background into Data S
 
 I'm expanding my skills through projects in Python, R, SQL, and Machine Learning while exploring how data can be used to solve real-world problems across different industries.
 
-Currently exploring advanced machine learning, MLOps, cloud deployment, and AI applications in healthcare.
+Currently exploring advanced machine learning, MLOps, cloud deployment, and AI applications.
 
 
 ## 🛠️ Tech Stack
